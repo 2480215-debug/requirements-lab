@@ -7,6 +7,7 @@
 4. User can search for products
 5. User can place an order
 6. User can make online payments
+7. User can securely login to the system
 
 ## Non-Functional Requirements
 1. System should load within 2 seconds
